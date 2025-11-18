@@ -1,0 +1,4 @@
+Frontend Technologies:
+- HTML: The structure of a webpage.
+- CSS: Styles and layout.
+- JavaScript: Adds interactivity and dynamic content.
