@@ -1,3 +1,10 @@
 Web Development
 Web development involves creating websites and web applications. 
 It includes several important parts that work together to deliver interactive experiences online.
+
+Frontend section:
+Frontend development focuses on the parts of a website that users see and interact with.
+It involves creating layouts, buttons, colors, and responsive designs.
+Technologies like HTML, CSS, and JavaScript are used to build the visual interface.
+Frontend developers ensure the website looks good and is easy to use.
+They also optimize pages for speed and accessibility.
