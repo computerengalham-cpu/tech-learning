@@ -2,3 +2,7 @@ Backend Technologies:
 - Node.js: JavaScript runtime for backend development.
 - Python: Popular for web frameworks like Django and Flask.
 - PHP: Commonly used in web servers and CMS tools.
+
+Additional Backend Languages:
+- Java: Used in enterprise systems, Spring framework.
+- Ruby: Used with Ruby on Rails for fast web development.
