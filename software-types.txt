@@ -6,3 +6,9 @@ Web applications run through a web browser and do not need installation.
 They are accessible across different devices through the internet.
 Many modern tools, such as email clients and social platforms, are web applications.
 They make updates and maintenance easier because everything runs online.
+
+mobile section:
+Mobile applications are designed to run on smartphones and tablets.
+They offer features optimized for touch interaction and portability.
+Many mobile apps integrate with device hardware such as cameras, sensors, and GPS.
+They are usually downloaded from app stores.
