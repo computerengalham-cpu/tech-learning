@@ -1,3 +1,8 @@
 System software controls hardware and provides the base for applications.
 Application software helps users perform specific tasks.
 Programming software enables developers to create new programs.
+
+Web applications run through a web browser and do not need installation.
+They are accessible across different devices through the internet.
+Many modern tools, such as email clients and social platforms, are web applications.
+They make updates and maintenance easier because everything runs online.
