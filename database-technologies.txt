@@ -1,0 +1,4 @@
+Database Technologies:
+- MySQL: Widely used relational database.
+- MongoDB: NoSQL database for flexible data.
+- PostgreSQL: Powerful open-source relational database.
