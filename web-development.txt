@@ -8,3 +8,10 @@ It involves creating layouts, buttons, colors, and responsive designs.
 Technologies like HTML, CSS, and JavaScript are used to build the visual interface.
 Frontend developers ensure the website looks good and is easy to use.
 They also optimize pages for speed and accessibility.
+
+Backend section:
+Backend development handles the behind-the-scenes logic of a website.
+It includes servers, APIs, authentication, and application logic.
+Backend developers use languages like Python, Node.js, Java, or PHP.
+They ensure that data flows correctly between the user interface and the database.
+The backend is responsible for performance, security, and processing requests.
