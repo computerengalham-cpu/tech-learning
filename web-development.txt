@@ -15,3 +15,11 @@ It includes servers, APIs, authentication, and application logic.
 Backend developers use languages like Python, Node.js, Java, or PHP.
 They ensure that data flows correctly between the user interface and the database.
 The backend is responsible for performance, security, and processing requests.
+
+
+Database section:
+Databases store and manage the information used by web applications.
+They allow websites to save user accounts, products, messages, and other data.
+Common databases include MySQL, PostgreSQL, MongoDB, and SQLite.
+Developers design tables or collections to organize data efficiently.
+Databases work closely with the backend to deliver and store information.
