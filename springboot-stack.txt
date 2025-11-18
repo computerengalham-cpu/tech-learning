@@ -1,0 +1,4 @@
+Spring Boot Stack:
+Frontend: Can pair with Angular, React, Thymeleaf, etc.
+Backend: Spring Boot (Java) for enterprise-grade backend services.
+Database: MySQL, PostgreSQL, or other relational databases.
