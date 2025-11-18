@@ -10,3 +10,6 @@ MERN vs DotNet:
 MERN uses JavaScript across frontend and backend, making it easy for full-stack devs.
 DotNet provides strong performance and enterprise-level stability.
 >>>>>>> 9fd377eeb80eab85cdd960ede586c1ac7d019a74
+
+Conclusion:
+Each stack has its own strengths, and the best choice depends on project needs.
