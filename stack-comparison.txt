@@ -1,6 +1,12 @@
 Stack Comparison:
 This document compares different modern development stacks and their strengths.
+<<<<<<< HEAD
 
 MERN vs Spring Boot:
 MERN is lightweight and full JavaScript.
 Spring Boot is powerful for enterprise systems and scales well.
+=======
+MERN vs DotNet:
+MERN uses JavaScript across frontend and backend, making it easy for full-stack devs.
+DotNet provides strong performance and enterprise-level stability.
+>>>>>>> 9fd377eeb80eab85cdd960ede586c1ac7d019a74

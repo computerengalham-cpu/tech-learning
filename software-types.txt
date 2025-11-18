@@ -14,4 +14,7 @@ Many mobile apps integrate with device hardware such as cameras, sensors, and GP
 They are usually downloaded from app stores.
 
 desktop app:
-Desktop applications run directly on a computer's operating system. They typically offer more advanced features and performance compared to mobile apps. Examples include video editors, office suites, and professional design software. They often require installation and updates by the user.
+Desktop applications run directly on a computer's operating system.
+They typically offer more advanced features and performance compared to mobile apps.
+Examples include video editors, office suites, and professional design software.
+They often require installation and updates by the user.
