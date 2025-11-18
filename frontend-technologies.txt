@@ -2,3 +2,7 @@ Frontend Technologies:
 - HTML: The structure of a webpage.
 - CSS: Styles and layout.
 - JavaScript: Adds interactivity and dynamic content.
+
+Modern Frontend Frameworks:
+- React: Component-based UI library by Meta.
+- Vue: Flexible progressive framework for building user interfaces.
