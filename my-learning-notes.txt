@@ -1,0 +1,3 @@
+Today I learned how to use Git commands like add, commit, status, and push.
+Git helps track changes in projects.
+I also learned how to connect a local repository to GitHub and upload my work.
