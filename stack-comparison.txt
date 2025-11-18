@@ -1,2 +1,6 @@
 Stack Comparison:
 This document compares different modern development stacks and their strengths.
+
+MERN vs Spring Boot:
+MERN is lightweight and full JavaScript.
+Spring Boot is powerful for enterprise systems and scales well.
