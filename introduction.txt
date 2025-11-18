@@ -1,0 +1,3 @@
+Today I learned about the basics of software and how it interacts with hardware.
+Software helps computers perform tasks and solve problems.
+I also learned that software comes in different types designed for different purposes.
