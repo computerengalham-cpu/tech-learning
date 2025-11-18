@@ -1,0 +1,4 @@
+DotNet Stack:
+Frontend: Can use Razor Pages, Blazor, or external JS frameworks.
+Backend: .NET / ASP.NET Core for powerful server-side processing.
+Database: SQL Server or any compatible relational database.
